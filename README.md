@@ -57,8 +57,29 @@ Array digunakan untuk:
 
 # 2.screenshot hasil eksekusi
 
-asset/hasil.png
-      
+input data
+
+   <img width="202" height="131" alt="input data" src="https://github.com/user-attachments/assets/7f40163e-c628-48ad-a5ae-c92ca927ac26" />
+
+
+
+#
+hasil
+
+<img width="407" height="92" alt="hasil" src="https://github.com/user-attachments/assets/46ee0685-c4ac-4957-bcbc-f44bd0b3b56e" />
+
+#
+grafik 1
+
+<img width="311" height="245" alt="GRAFIK 1" src="https://github.com/user-attachments/assets/9a9537d8-5258-4698-bc0e-fdd979bd3ea6" />
+
+#
+grafik 2
+
+<img width="315" height="248" alt="GRAFIK 2" src="https://github.com/user-attachments/assets/90aec744-c079-4ab5-9a51-e3d2e9c8e6bd" />
+
+
+  
       
      
 
