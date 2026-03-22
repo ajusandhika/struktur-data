@@ -57,7 +57,7 @@ Array digunakan untuk:
 
 # 2.screenshot hasil eksekusi
 
-asset/gambar1.png
+asset/hasil.png
       
       
      
